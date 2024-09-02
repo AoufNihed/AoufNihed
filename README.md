@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aouf Nihed</h1>
-<h3 align="center">Engineering Student⚡ | Freelance Developer & Designer 🌐| Innovating with AI Integration & Energy Optimization</h3>
+<h3 align="center">Engineering Student⚡ | Junior Data Analyst 🌐| Innovating with AI Integration & Energy Optimization</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [Model predictive control](https://github.com/AoufNihed/MicrogridMPC.git)
 
-- 💬 Ask me about **ML,NLP,Frontend dev**
+- 💬 Ask me about **Data Analyst,Dashboard,ML,NLP,Frontend dev**
 
-- 📫 How to reach me **aouf.nihed@gmail.com**
+- 📫 How to reach me **aouf_nihed@esgee-oran.dz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
