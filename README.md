@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aouf Nihed</h1>
-<h3 align="center">Networks Electrical Student @ ESGEE | Open to PFE Internship & Research Opportunities | Building Smart Energy Solutions with AI</h3>
+<h3 align="center">
+Networks Electrical Student @ ESGEE | Open to PFE Internship & Research Opportunities 
+</h3>
 
-<p align="left">
-🔍 I’m currently looking for a <strong>PFE internship</strong> and <strong>research opportunities</strong> in Smart Grids, Power Systems, and AI applications in energy.  
-⚙️ I contribute to <strong>open-source projects</strong> focused on intelligent energy systems and grid reliability.  
-🔬 I enjoy building ML models that enhance decision-making and energy optimization in electrical systems.
-</p>
+---
+
+### 🔎 About Me
+
+- 🔍 I’m currently looking for a **PFE internship** and **research opportunities** in Smart Grids, Power Systems, and AI applications in energy.  
+- ⚙️ I contribute to **open-source projects** focused on intelligent energy systems and grid reliability.  
+- 🔬 I enjoy building **ML models** that enhance decision-making and energy optimization in electrical systems.
 
 ---
 
@@ -36,4 +40,3 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aoufnihed&show_icons=true&locale=en" alt="aoufnihed" />
 </p>
-
