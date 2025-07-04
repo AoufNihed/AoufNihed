@@ -1,37 +1,30 @@
-# Hi 👋, I'm Aouf Nihed
+# 👋 Welcome! I'm Aouf Nihed
 
-### Networks Electrical Student @ ESGEE ⚡  
-Open to PFE Internship & Research Opportunities 📚  
-Building Smart Energy Solutions with AI 🤖
-
----
-
-🔍 I’m currently looking for a **PFE internship** and **research opportunities** in Smart Grids, Power Systems, and AI applications in energy.  
-⚙️ I contribute to **open-source projects** focused on intelligent energy systems and grid reliability.  
-🔬 I enjoy building ML models to optimize performance and decision-making in electrical systems.
+🎓 Final-Year Electrical Networks Engineering Student @ ESGEE  
+🔎 Open to PFE Internships & Research Opportunities in Smart Grids, Power Systems, and AI for Energy  
+⚡ Passionate about building intelligent solutions at the intersection of energy and machine learning
 
 ---
 
-## 🚀 Featured Projects
+## 💡 About Me
 
-- **EnergyFlow** – ML-powered web app for real-time monitoring & prediction of renewable energy.  
-- **Reablity** – Reliability modeling system combining FTA, MTTR, Markov Chains with AI using CrewAI.  
-- **MicrogridMPC** – Predictive control system for smart microgrid energy optimization.  
-- **Motor Fault Detection** – Machine learning models for predictive maintenance in motors.
-
----
-
-## 🛠️ Languages & Tools
-
-**Languages:** Python · Java · Julia · MATLAB  
-**ML Frameworks:** PyTorch · TensorFlow · Scikit-learn
+- I apply **AI & Machine Learning** to real-world challenges in the energy sector  
+- I contribute to **open-source** projects related to **power systems, smart grids, and predictive maintenance**  
+- I’m eager to explore how intelligent systems can improve grid reliability and energy efficiency
 
 ---
 
-## 📬 Contact Me
+## 🛠️ Tools & Technologies
 
-- **Email:** [aouf_nihed@esgee-oran.dz](mailto:aouf_nihed@esgee-oran.dz)  
-- **LinkedIn:** [nihed-aouf-](https://www.linkedin.com/in/nihed-aouf-/)
+**Languages**: Python · Java · Julia · MATLAB  
+**ML Frameworks**: PyTorch · TensorFlow · Scikit-learn  
+
+---
+
+## 📬 Contact
+
+- **Email**: [aouf_nihed@esgee-oran.dz](mailto:aouf_nihed@esgee-oran.dz)  
+- **LinkedIn**: [nihed-aouf-](https://www.linkedin.com/in/nihed-aouf-/)
 
 ---
 
