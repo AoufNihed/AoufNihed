@@ -7,7 +7,7 @@ Networks Electrical Student @ ESGEE | Open to PFE Internship & Research Opportun
 
 ### 🔎 About Me
 
-- 🔍 I’m currently looking for a **PFE internship** and **research opportunities** in Smart Grids, Power Systems, and AI applications in energy.  
+- 🔍 I’m currently looking for a **PFE internship** and **research opportunities** in Smart Grids, Power Systems.  
 - ⚙️ I contribute to **open-source projects** focused on intelligent energy systems and grid reliability.  
 - 🔬 I enjoy building **ML models** that enhance decision-making and energy optimization in electrical systems.
 
@@ -28,7 +28,7 @@ Networks Electrical Student @ ESGEE | Open to PFE Internship & Research Opportun
 
 ### 📬 Contact Me  
 - 📧 **Email:** [aouf_nihed@esgee-oran.dz](mailto:aouf_nihed@esgee-oran.dz)  
-- 💼 **LinkedIn:** [nihed-aouf-](https://www.linkedin.com/in/nihed-aouf-/)
+- 💼 **LinkedIn:** [nihed-aouf](https://www.linkedin.com/in/nihed-aouf/)
 
 ---
 
