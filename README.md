@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aouf Nihed</h1>
 <h3 align="center">
-Networks Electrical Student @ ESGEE | Open to PFE Internship & Research Opportunities 
+Networks Electrical Student @ ESGEE | Open to PFE Internship 
 </h3>
 
 ---
 
 ### 🔎 About Me
 
-- 🔍 I’m currently looking for a **PFE internship** and **research opportunities** in Smart Grids, Power Systems.  
+- 🔍 I’m currently looking for a **PFE internship** and **research opportunities** in Power Systems.  
 - ⚙️ I contribute to **open-source projects** focused on intelligent energy systems and grid reliability.  
 - 🔬 I enjoy building **ML models** that enhance decision-making and energy optimization in electrical systems.
 
